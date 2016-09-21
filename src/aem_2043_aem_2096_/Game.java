@@ -18,7 +18,7 @@ public class Game {
     private Hyper_Sudoku_Game hyper_sudoku;
     private Duidoku_Game duidoku;
     private ArrayList<Profile> profiles;
-    private Profile current_player; // ο τρέχον χρήστης 
+    private Profile current_player; // ο τρέχον χρήσ
     
 
     /**
